@@ -1,4 +1,4 @@
-## [Site Live](spacx-app.surge.sh)
+## [Site Live](http://spacx-app.surge.sh/)
 
 # Getting Started with Create React App
 
